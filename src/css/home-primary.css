@@ -1,0 +1,10 @@
+
+.home-primary {
+  display: grid;
+  grid-template-areas: "search user"
+                       "list list";
+  grid-template-rows: auto 1fr;
+  grid-template-columns: 300px 1fr;
+  padding: 10px;
+  overflow: auto;
+}

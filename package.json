@@ -1,0 +1,23 @@
+{
+  "name": "proyecto",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "IvanCardozo",
+  "license": "ISC",
+  "dependencies": {
+    "autoprefixer": "^8.1.0",
+    "postcss": "^6.0.19",
+    "postcss-cli": "^5.0.0",
+    "postcss-cssnext": "^3.1.0",
+    "postcss-import": "^11.1.0"
+  },
+  "devDependencies": {
+    "css-mqpacker": "^6.0.2",
+    "postcss-font-magician": "^2.1.0",
+    "stylelint": "^9.1.3"
+  }
+}
